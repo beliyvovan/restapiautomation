@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tests_resources.users" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-02-01T15:41:48" hostname="LAPTOP-3T9ICCUR" time="15.252">
+  <properties/>
+  <testcase name="unSeccessPut" classname="tests_resources.users" time="4.63"/>
+  <testcase name="successGet" classname="tests_resources.users" time="3.618"/>
+  <testcase name="unSeccessDelete" classname="tests_resources.users" time="1.374"/>
+  <testcase name="unSeccessPost" classname="tests_resources.users" time="2.595"/>
+  <testcase name="unSeccessPatch" classname="tests_resources.users" time="1.502"/>
+  <testcase name="unSeccessOptions" classname="tests_resources.users" time="1.533"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
